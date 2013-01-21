@@ -10,7 +10,7 @@ Searches for file and variable names within content, and wraps them with a span 
 
 == Description ==
 
-Searches for file names, folder paths, variable and function names, within the content and comment test, and wraps them with a span html tag.
+Searches for file names, folder paths, variable and function names, within the content and comment text, and wraps them with a span html tag.
 
 `
 .spanfile,
