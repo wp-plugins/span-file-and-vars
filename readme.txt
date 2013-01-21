@@ -1,4 +1,4 @@
-=== Span Filepaths ===
+=== Span File and Vars ===
 Contributors: jsmoriss
 Tags: post, page, content, replace, filepath, filename, variable, function
 Requires at least: 3.0
