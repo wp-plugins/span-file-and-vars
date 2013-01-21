@@ -1,8 +1,23 @@
 <?php
 /*
 Plugin Name: Span File and Variable Names
+Plugin URI: http://wordpress.org/extend/plugins/span-file-and-vars/
 Description: Searches for file and variable names within content, and wraps them with a span html tag.
+Version: 1.0
 Author: Jean-Sebastien Morisset
+Author URI: http://surniaulula.com/
+
+Copyright 2012 - Jean-Sebastien Morisset - http://surniaulula.com/
+
+This script is free software; you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation; either version 3 of the License, or (at your option) any later
+version.
+
+This script is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details at
+http://www.gnu.org/licenses/.
 */
 
 add_filter( 'the_content', 'span_file_and_vars' );
