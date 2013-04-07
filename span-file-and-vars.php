@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Span File and Vars
-Plugin URI: http://wordpress.org/extend/plugins/span-file-and-vars/
+Plugin URI: http://surniaulula.com/wordpress-plugins/span-file-and-vars/
 Description: Searches for file and variable names within content, and wraps them with a span html tag.
 Version: 1.0
 Author: Jean-Sebastien Morisset
