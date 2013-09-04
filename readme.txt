@@ -4,7 +4,7 @@ Donate link: http://surniaulula.com/extend/plugins/contribution-form/
 Tags: post, page, content, replace, filepath, filename, variable, function
 License: GPLv2 or later
 Requires at least: 3.0
-Tested up to: 3.5.1
+Tested up to: 3.6
 Stable tag: 1.0
 
 Searches for file and variable names within content, and wraps them with a span html tag.
