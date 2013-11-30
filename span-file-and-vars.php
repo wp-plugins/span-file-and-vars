@@ -1,9 +1,11 @@
 <?php
 /*
 Plugin Name: Span File and Vars
-Plugin URI: http://surniaulula.com/wordpress-plugins/span-file-and-vars/
+Plugin URI: http://surniaulula.com/extend/plugins/span-file-and-vars/
 Author: Jean-Sebastien Morisset
 Author URI: http://surniaulula.com/
+License: GPLv3
+License URI: http://surniaulula.com/wp-content/uploads/license/gpl.txt
 Description: Searches for file and variable names within content, and wraps them with a span html tag.
 Version: 1.0
 
