@@ -4,7 +4,7 @@ Donate link: http://surniaulula.com/extend/plugins/contribution-form/
 Tags: post, page, content, replace, filepath, filename, variable, function
 License: GPLv2 or later
 Requires at least: 3.0
-Tested up to: 3.6
+Tested up to: 3.7.1
 Stable tag: 1.0
 
 Searches for file and variable names within content, and wraps them with a span html tag.
@@ -29,7 +29,7 @@ Searches for file names, folder paths, variable and function names within the co
 1. Login to your weblog
 1. Go to Plugins
 1. Select Add New
-1. Search for *NextGEN Facebook*
+1. Search for *span file and vars*
 1. Select Install
 1. Select Install Now
 1. Select Activate Plugin
@@ -44,6 +44,6 @@ Searches for file names, folder paths, variable and function names within the co
 
 == Changelog ==
 
-= v1.0 =
-* Initial release.
+= Version 1.0 =
 
+* Initial release.
