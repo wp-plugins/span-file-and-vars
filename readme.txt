@@ -1,6 +1,5 @@
 === Span File and Vars ===
 Contributors: jsmoriss
-Donate link: http://surniaulula.com/extend/plugins/contribution-form/
 Tags: post, page, content, replace, filepath, filename, variable, function
 License: GPLv2 or later
 Requires at least: 3.0
