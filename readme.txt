@@ -3,7 +3,7 @@ Contributors: jsmoriss
 Tags: post, page, content, replace, filepath, filename, variable, function
 License: GPLv2 or later
 Requires at least: 3.0
-Tested up to: 3.7.1
+Tested up to: 3.9.1
 Stable tag: 1.0
 
 Searches for file and variable names within content, and wraps them with a span html tag.
@@ -36,7 +36,7 @@ Searches for file names, folder paths, variable and function names within the co
 *Manual*
 
 1. Download and unzip the plugin
-1. Upload the entire span-file-and-vars/ folder to the /wp-content/plugins/ directory
+1. Upload the entire `span-file-and-vars/` folder to the `wp-content/plugins/` directory
 1. Activate the plugin through the Plugins menu in WordPress
 
 == Frequently Asked Questions ==
