@@ -57,11 +57,13 @@ function span_file_and_vars( $content ) {
 				
 				  --Prefix--- --Filepath---------------------- --Filename---------------------- --Suffix--------- */
 				'/(^|[>\s\(])((~|\.|\.\.)?\/[a-z0-9_\-\.\*\/]+|[a-z0-9_\-\.\/]+\.[a-z0-9_]{2,4})([\)\.,;!\?<\s\n\r])/i',
+
 				/*
 				Look for variables and perl module names:
 
 				  --Prefix--- --Variable-------------------- --Module--------------- --Suffix--------- */
 				'/(^|[>\s\(])([\$\@\%][a-z][a-z0-9_:\[\]\']+|[a-z0-9_]+::[a-z0-9_:]+)([\)\.,;!<\s\n\r])/i',
+
 				/*
 				Look for function names:
 
