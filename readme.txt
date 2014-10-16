@@ -7,11 +7,11 @@ Requires At Least: 3.0
 Tested Up To: 4.0
 Stable Tag: 1.0
 
-Searches for file and variable names within content, and wraps them with a span html tag.
+Searches for file and variable names within content, and wraps them with a span HTML tag.
 
 == Description ==
 
-Searches for file names, folder paths, variable and function names within the content and comment text, and wraps them with a span html tag.
+Searches for file names, folder paths, variable and function names within the content and comment text, and wraps them with a span HTML tag.
 
 `
 .spanfile,
