@@ -4,7 +4,7 @@ Tags: post, page, content, replace, filepath, filename, variable, function
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.txt
 Requires At Least: 3.0
-Tested Up To: 4.0
+Tested Up To: 4.0.1
 Stable Tag: 1.0
 
 Searches for file and variable names within content, and wraps them with a span HTML tag.
