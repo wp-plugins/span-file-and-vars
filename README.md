@@ -1,6 +1,7 @@
 <h1>Span File and Vars</h1>
 
 <table>
+<tr><th align="right" valign="top" nowrap>Plugin Name</th><td>Span File and Vars</td></tr>
 <tr><th align="right" valign="top" nowrap>Summary</th><td>Searches for file and variable names within content, and wraps them with a span HTML tag.</td></tr>
 <tr><th align="right" valign="top" nowrap>Stable Version</th><td>1.0</td></tr>
 <tr><th align="right" valign="top" nowrap>Requires At Least</th><td>WordPress 3.0</td></tr>

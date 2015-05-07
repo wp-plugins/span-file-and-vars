@@ -1,4 +1,6 @@
 === Span File and Vars ===
+Plugin Name: Span File and Vars
+Plugin Slug: span-file-and-vars
 Contributors: jsmoriss
 Tags: post, page, content, replace, filepath, filename, variable, function
 License: GPLv3
